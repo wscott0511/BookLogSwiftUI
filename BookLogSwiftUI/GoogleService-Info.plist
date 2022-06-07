@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871590466466-360s5kmu3cbum70tv8gn60flguouob32.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871590466466-360s5kmu3cbum70tv8gn60flguouob32</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBb4SiYtYnUpxaTR5LfKlL2x9Pguo-s728</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871590466466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rscottsites.BookLogSwiftUI</string>
+	<key>PROJECT_ID</key>
+	<string>booklog-swiftui</string>
+	<key>STORAGE_BUCKET</key>
+	<string>booklog-swiftui.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871590466466:ios:de006f96b8f0df3ad918fb</string>
+</dict>
+</plist>
